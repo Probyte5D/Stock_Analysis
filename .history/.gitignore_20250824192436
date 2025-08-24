@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Cartelle generate dai grafici
+Plots/
+Analysis1/Plots/
+Analysis2/Plots/
+
+# File temporanei Python
+__pycache__/
+*.pyc
+
+# Ambienti virtuali
+.env
