@@ -12,3 +12,11 @@ __pycache__/
 
 # Ambienti virtuali
 .env
+# File temporanei di Jupyter/Colab
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+__pycache__/
+*.pyc
+.vscode/
+.history/
